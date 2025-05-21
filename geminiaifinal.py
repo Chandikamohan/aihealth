@@ -9,7 +9,7 @@ load_dotenv()
 st.set_page_config(page_title="AI Healthadda", page_icon="🤖", layout="centered")
 
 # Initialize Gemini Pro with your API key
-GOOGLE_API_KEY = "AIzaSyAhw8axGxHhNkbF66aYr74U5_KLYWaXjUk"
+GOOGLE_API_KEY = "AIzaSyAhw8axGxHhNkbF66 please put your api"
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # Initialize model
